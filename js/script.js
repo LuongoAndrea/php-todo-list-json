@@ -22,7 +22,8 @@
         
     },
     created(){
-        this.getData(),
+        this.getData()
       }
+    
   }).mount('#app')
 
